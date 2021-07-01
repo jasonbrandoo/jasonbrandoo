@@ -2,7 +2,7 @@
 
 Currently, I am working as
 - Frontend developer at Local Company
-- Frontend developer [Towedd](https://towedd.com). Platform Wedding E-invitation
+- Frontend developer at [Towedd](https://towedd.com). Platform Wedding E-invitation
 
 **Languages and Tools:**  
 
